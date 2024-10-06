@@ -13,3 +13,15 @@ Open and Run Traini8Application.class (run as java application)
 This project is using PostgresSql Database 
 
 So PostgresSql should be present in your system
+
+# Posting Data
+
+![post ](https://github.com/user-attachments/assets/96e36214-1e0c-46ee-925d-a6df141aecde)
+
+# Get All Detail
+
+![getall](https://github.com/user-attachments/assets/ce473125-080c-4c52-95bd-50819dadaafe)
+
+# Filter Data 
+
+![filter](https://github.com/user-attachments/assets/c2adabc9-7bf5-4e49-8dc6-50f1064ab2b5)
