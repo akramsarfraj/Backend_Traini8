@@ -23,5 +23,6 @@ So PostgresSql should be present in your system
 ![getall](https://github.com/user-attachments/assets/ce473125-080c-4c52-95bd-50819dadaafe)
 
 # Filter Data 
+URI -  http://localhost:8080/api/traini8/capacity/{capacity}
 
 ![filter](https://github.com/user-attachments/assets/c2adabc9-7bf5-4e49-8dc6-50f1064ab2b5)
